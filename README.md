@@ -40,9 +40,9 @@ Java : sudo apt install openjdk-8-jre
       xyz-PC:-$ java filename.java
       ```
 ### Languages Used
-- [Python]('https://docs.python.org/3/') - a high level general purpose language.
-- [Java]('https://www.java.com/en/') - a class-based, object oriented language. 
-- [Markdown]('https://www.markdownguide.org/') - light weight markup language for creating formatted text.
+- ![Python]('https://docs.python.org/3/') - a high level general purpose language.
+- ![Java]('https://www.java.com/en/') - a class-based, object oriented language. 
+- ![Markdown]('https://www.markdownguide.org/') - light weight markup language for creating formatted text.
 
 ### Contributing
 Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
