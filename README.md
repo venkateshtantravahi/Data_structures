@@ -10,4 +10,4 @@ and I like contributors to contribute some challenges to the learners which is m
 Contributors can contribute to this repo by pull requesting to a branch 
 
 ## Contents
-  1. ![Intro to DS and time_complexity]('https://github.com/venkateshtantravahi/Data_structures/blob/main/DataStructure_and_ComputationalComplexity_Intro.md')
+  1. ![Intro to DS and time_complexity](DataStructure_and_ComputationalComplexity_Intro.md)
