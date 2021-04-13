@@ -11,4 +11,4 @@ Contributors can contribute to this repo by pull requesting to a branch
 
 ## Contents
   1. ![Intro to DS and time_complexity](DataStructure_and_ComputationalComplexity_Intro.md)
-  2. ![Arrays](Static_And_Dynamic_Arrays/Arrays.md)
+  2. ![Arrays](Static_And_Dynamic_Arrays)
