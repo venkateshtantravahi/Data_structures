@@ -39,7 +39,8 @@ As from the above example you can see that referring index which is not present 
 - We can directly re-assign the values in the array by referring thier indexes.
 
       example: A[0] := -1 , A[5] := 18, A[6] := 25
-![Static Array Implementation](Static_Array.java)  
+![Static Array Implementation Java_Version](Static_Array.java)
+![Static Array Implementation Python_Version](Static_Array.py)
 
 ## Dynamic Array:
   In computer science, a dynamic array, growable array, resizable array, dynamic table, mutable array, or array list is a random access, \
@@ -65,4 +66,5 @@ As from the above example you can see that referring index which is not present 
             [7,-9,3,12,5,@,@,@] ==> [7,-9,3,12,5,6,@,@]
 
 refer code here 
-![dynamic_Array_implementation](DynamicArray.java)
+![dynamic_Array_implementation Java_Version](DynamicArray.java)
+![dynamic Array implemetation Python_Version](DynamicArray.py)
